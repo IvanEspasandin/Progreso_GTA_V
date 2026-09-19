@@ -35,15 +35,15 @@ La partida se divide en tres etapas:
 
 Durante prácticamente toda la partida:
 
-- [ ] No comprar coches caros innecesariamente.
-- [ ] No gastar grandes cantidades de dinero.
-- [ ] No hacer los cuatro asesinatos opcionales de Lester.
-- [ ] Mantener vivos a los miembros de la tripulación importantes.
-- [ ] Guardar manualmente antes de cada inversión importante.
-- [ ] Antes de cada inversión, comprar con **Michael, Franklin y Trevor**.
-- [ ] Después de cada misión bursátil, comprobar regularmente la cotización.
-- [ ] Vender cuando se alcance el máximo real de la partida, no simplemente porque una guía diga que se ha alcanzado cierto porcentaje.
-- [ ] Mantener varios guardados separados para poder recuperar una inversión fallida.
+- No comprar coches caros innecesariamente.
+- No gastar grandes cantidades de dinero.
+- No hacer los cuatro asesinatos opcionales de Lester.
+- Mantener vivos a los miembros de la tripulación importantes.
+- Guardar manualmente antes de cada inversión importante.
+- Antes de cada inversión, comprar con **Michael, Franklin y Trevor**.
+- Después de cada misión bursátil, comprobar regularmente la cotización.
+- Vender cuando se alcance el máximo real de la partida, no simplemente porque una guía diga que se ha alcanzado cierto porcentaje.
+- Mantener varios guardados separados para poder recuperar una inversión fallida.
 
 ---
 
@@ -102,9 +102,9 @@ Encuentra a **Taliana Martinez** después del accidente.
 
 ### Haz esto
 
-- [ ] Rescatar a Taliana.
-- [ ] Completar el evento.
-- [ ] Desbloquearla como miembro de la tripulación.
+- Rescatar a Taliana.
+- Completar el evento.
+- Desbloquearla como miembro de la tripulación.
 
 Taliana tiene:
 
@@ -1056,33 +1056,33 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 
 ## Lester
 
-- [ ] ❌ Hacer Multi Target antes de The Big Score.
-- [ ] ❌ Hacer Vice antes de The Big Score.
-- [ ] ❌ Hacer Bus antes de The Big Score.
-- [ ] ❌ Hacer Construction antes de The Big Score.
-- [ ] ✅ Hotel es la excepción obligatoria.
+- ❌ Hacer Multi Target antes de The Big Score.
+- ❌ Hacer Vice antes de The Big Score.
+- ❌ Hacer Bus antes de The Big Score.
+- ❌ Hacer Construction antes de The Big Score.
+- ✅ Hotel es la excepción obligatoria.
 
 ---
 
 ## Tripulación
 
-- [ ] ❌ Usar Daryl en Paleto.
-- [ ] ❌ Matar a Taliana.
-- [ ] ❌ Perder a Packie innecesariamente.
-- [ ] ❌ Utilizar tripulantes caros en The Big Score sin necesidad.
-- [ ] ❌ Utilizar a Karim sin experiencia en una posición peligrosa.
+- ❌ Usar Daryl en Paleto.
+- ❌ Matar a Taliana.
+- ❌ Perder a Packie innecesariamente.
+- ❌ Utilizar tripulantes caros en The Big Score sin necesidad.
+- ❌ Utilizar a Karim sin experiencia en una posición peligrosa.
 
 ---
 
 ## Bolsa
 
-- [ ] ❌ Comprar solo con Franklin.
-- [ ] ❌ Olvidar comprar con Michael.
-- [ ] ❌ Olvidar comprar con Trevor.
-- [ ] ❌ Vender demasiado pronto.
-- [ ] ❌ Comprar las acciones equivocadas antes de una misión.
-- [ ] ❌ Gastar el dinero entre operaciones.
-- [ ] ❌ No guardar antes de una inversión importante.
+- ❌ Comprar solo con Franklin.
+- ❌ Olvidar comprar con Michael.
+- ❌ Olvidar comprar con Trevor.
+- ❌ Vender demasiado pronto.
+- ❌ Comprar las acciones equivocadas antes de una misión.
+- ❌ Gastar el dinero entre operaciones.
+- ❌ No guardar antes de una inversión importante.
 
 ---
 
@@ -1090,9 +1090,9 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 
 ## Primera parte
 
-- [ ] Completar la historia hasta **The Jewel Store Job**.
-- [ ] Jewel Store → **Smart**.
-- [ ] Rickie + Packie + Karim.
+- [x] Completar la historia hasta **The Jewel Store Job**.
+- [x] Jewel Store → **Smart**.
+- [x] Rickie + Packie + Karim.
 - [ ] Completar **Crash Rescue**.
 - [ ] Reclutar a **Taliana**.
 - [ ] Hacer Bike Thief City.
