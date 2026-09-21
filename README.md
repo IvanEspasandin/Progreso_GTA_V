@@ -1099,7 +1099,7 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 - [ ] Vender Animal Ark.
 - [ ] Hacer Burial.
 - [x] Hacer Deal Gone Wrong.
-- [ ] Hacer Drug Shootout con Trevor.
+- [x] Hacer Drug Shootout con Trevor.
 - [ ] Completar las cuatro misiones de Maude.
 - [ ] Completar Altruist Cult.
 - [ ] Completar Epsilon con Michael.
