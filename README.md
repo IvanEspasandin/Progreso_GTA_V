@@ -1093,12 +1093,12 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 - [x] Completar la historia hasta **The Jewel Store Job**.
 - [x] Jewel Store → **Smart**.
 - [x] Rickie + Packie + Karim.
-- [ ] Completar **Crash Rescue**.
-- [ ] Reclutar a **Taliana**.
+- [x] Completar **Crash Rescue**.
+- [x] Reclutar a **Taliana**.
 - [ ] Hacer Bike Thief City.
 - [ ] Vender Animal Ark.
 - [ ] Hacer Burial.
-- [ ] Hacer Deal Gone Wrong.
+- [x] Hacer Deal Gone Wrong.
 - [ ] Hacer Drug Shootout con Trevor.
 - [ ] Completar las cuatro misiones de Maude.
 - [ ] Completar Altruist Cult.
