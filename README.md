@@ -1095,8 +1095,8 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 - [x] Rickie + Packie + Karim.
 - [x] Completar **Crash Rescue**.
 - [x] Reclutar a **Taliana**.
-- [ ] Hacer Bike Thief City.
-- [ ] Vender Animal Ark.
+- [x] Hacer Bike Thief City.
+- [x] Vender Animal Ark.
 - [x] Hacer Burial.
 - [x] Hacer Deal Gone Wrong.
 - [x] Hacer Drug Shootout con Trevor.
