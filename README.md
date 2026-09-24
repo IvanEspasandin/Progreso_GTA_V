@@ -1100,7 +1100,7 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 - [x] Hacer Burial.
 - [x] Hacer Deal Gone Wrong.
 - [x] Hacer Drug Shootout con Trevor.
-- [ ] Completar las cuatro misiones de Maude.
+- [x] Completar las cuatro misiones de Maude.
 - [x] Completar Altruist Cult.
 - [ ] Completar Epsilon con Michael.
 - [ ] Comprar Sonar Collections Dock.
