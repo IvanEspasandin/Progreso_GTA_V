@@ -1103,8 +1103,8 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 - [x] Completar las cuatro misiones de Maude.
 - [x] Completar Altruist Cult.
 - [x] Completar Epsilon con Michael.
-- [ ] Comprar Sonar Collections Dock.
-- [ ] Recoger los 30 residuos nucleares.
+- [x] Comprar Sonar Collections Dock.
+- [x] Recoger los 30 residuos nucleares.
 
 ---
 
