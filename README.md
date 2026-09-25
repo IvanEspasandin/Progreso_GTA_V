@@ -1112,14 +1112,14 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 
 ## Hotel
 
-- [ ] Comprar BET con Michael.
-- [ ] Comprar BET con Franklin.
-- [ ] Comprar BET con Trevor.
-- [ ] Hotel Assassination.
-- [ ] Vender BET.
-- [ ] Esperar caída de BIL.
-- [ ] Comprar BIL con los tres.
-- [ ] Vender BIL.
+- [x] Comprar BET con Michael.
+- [x] Comprar BET con Franklin.
+- [x] Comprar BET con Trevor.
+- [x] Hotel Assassination.
+- [x] Vender BET.
+- [x] Esperar caída de BIL.
+- [x] Comprar BIL con los tres.
+- [x] Vender BIL.
 
 ## A partir de aquí:
 
