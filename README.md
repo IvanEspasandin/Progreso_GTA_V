@@ -1131,9 +1131,9 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 
 ## Paleto Score
 
-- [ ] Usar **Norm**.
-- [ ] No utilizar Daryl.
-- [ ] Perder la menor cantidad posible de dinero.
+- [x] Usar **Norm**.
+- [x] No utilizar Daryl.
+- [x] Perder la menor cantidad posible de dinero.
 
 ## Bureau Raid
 
