@@ -1137,11 +1137,11 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 
 ## Bureau Raid
 
-- [ ] Roof Entry.
-- [ ] Rickie.
-- [ ] Taliana.
-- [ ] Daryl.
-- [ ] Conseguir que todos sobrevivan.
+- [x] Roof Entry.
+- [x] Rickie.
+- [x] Taliana.
+- [x] Daryl.
+- [x] Conseguir que todos sobrevivan.
 
 ## Big Score
 
