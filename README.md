@@ -1145,20 +1145,20 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 
 ## Big Score
 
-- [ ] **Obvious**.
-- [ ] Taliana — 5 %.
-- [ ] Karim — 8 %.
-- [ ] Daryl — 6 %.
-- [ ] Norm/Hugh — 7 %.
-- [ ] Evitar perder botín.
-- [ ] Obtener ≈ $41.664.000 por protagonista.
+- [x] **Obvious**.
+- [x] Taliana — 5 %.
+- [x] Karim — 8 %.
+- [x] Daryl — 6 %.
+- [x] Norm/Hugh — 7 %.
+- [x] Evitar perder botín.
+- [x] Obtener ≈ $41.664.000 por protagonista.
 
 ---
 
 # 38. 📝 Checklist del final
 
-- [ ] Completar The Big Score.
-- [ ] Guardado manual.
+- [x] Completar The Big Score.
+- [x] Guardado manual.
 - [ ] Elegir **C — Deathwish / El tercer camino**.
 - [ ] Confirmar que Michael sobrevive.
 - [ ] Confirmar que Trevor sobrevive.
