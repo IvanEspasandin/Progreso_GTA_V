@@ -1159,10 +1159,10 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 
 - [x] Completar The Big Score.
 - [x] Guardado manual.
-- [ ] Elegir **C — Deathwish / El tercer camino**.
-- [ ] Confirmar que Michael sobrevive.
-- [ ] Confirmar que Trevor sobrevive.
-- [ ] Confirmar que Franklin sobrevive.
+- [x] Elegir **C — Deathwish / El tercer camino**.
+- [x] Confirmar que Michael sobrevive.
+- [x] Confirmar que Trevor sobrevive.
+- [x] Confirmar que Franklin sobrevive.
 
 ---
 
