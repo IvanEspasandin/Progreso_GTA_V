@@ -1178,11 +1178,11 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 
 ## Vice
 
-- [ ] Comprar FRT × 3.
-- [ ] Hacer Vice.
-- [ ] Vender FRT.
-- [ ] Comprar FAC × 3 después de la caída.
-- [ ] Vender FAC.
+- [x] Comprar FRT × 3.
+- [x] Hacer Vice.
+- [x] Vender FRT.
+- [x] Comprar FAC × 3 después de la caída.
+- [x] Vender FAC.
 
 ## Bus
 
