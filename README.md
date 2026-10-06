@@ -1170,11 +1170,11 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 
 ## Multi Target
 
-- [ ] Comprar DEB × 3.
-- [ ] Hacer Multi Target.
-- [ ] Vender DEB.
-- [ ] Comprar RWC × 3 después de la caída.
-- [ ] Vender RWC.
+- [x] Comprar DEB × 3.
+- [x] Hacer Multi Target.
+- [x] Vender DEB.
+- [x] Comprar RWC × 3 después de la caída.
+- [x] Vender RWC.
 
 ## Vice
 
