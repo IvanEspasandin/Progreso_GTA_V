@@ -1186,9 +1186,9 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 
 ## Bus
 
-- [ ] Hacer Bus Assassination.
-- [ ] Comprar VAP × 3 después de la caída.
-- [ ] Vender VAP.
+- [x] Hacer Bus Assassination.
+- [x] Comprar VAP × 3 después de la caída.
+- [x] Vender VAP.
 
 ## Construction
 
