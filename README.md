@@ -1192,9 +1192,9 @@ Por eso los asesinatos de Lester funcionan como multiplicadores:
 
 ## Construction
 
-- [ ] Comprar GCD × 3.
-- [ ] Hacer Construction Assassination.
-- [ ] Vender GCD en el máximo.
+- [x] Comprar GCD × 3.
+- [x] Hacer Construction Assassination.
+- [x] Vender GCD en el máximo.
 
 ## Tinkle
 
